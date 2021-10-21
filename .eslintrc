@@ -1,0 +1,32 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+        // EcmaScript rules
+        "camelcase": ["off", "allow"],
+        "curly": ["warn", "all"],
+        "eqeqeq": ["warn", "always"],
+        "block-spacing": ["warn", "always"],
+        "brace-style": ["warn", "1tbs"],
+        "comma-dangle": ["warn", "always-multiline"],
+        "space-before-blocks": ["warn", { "functions": "always", "keywords": "always", "classes": "always" }],
+        "keyword-spacing": ["warn", { "before": true, "after": true }],
+        "arrow-spacing": ["warn", { "before": true, "after": true }],
+        "space-before-function-paren": ["warn", { "anonymous": "never", "named": "never", "asyncArrow": "always" }],
+        "space-in-parens": ["warn", "never"],
+        "spaced-comment": ["warn", "always"],
+        "semi": ["warn", "never"],
+        "arrow-parens": ["warn", "as-needed"],
+        "object-curly-spacing": ["warn", "always"],
+        "padded-blocks": ["warn", "never"],
+        "quotes": ["warn", "double"],
+        "no-case-declarations": "off",
+        "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 1 }],
+        "eol-last": ["error", "always"],
+        "no-extra-boolean-cast": "off",
+
+        // React rules
+        "react/display-name": ["off", { "ignoreTranspilerName": true }],
+        "react/prop-types": "off"
+    }
+}
+

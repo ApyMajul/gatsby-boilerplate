@@ -1,0 +1,19 @@
+{
+    "name": "Name_of_the_website",
+    "title": "Title",
+    "description": "Description for seo",
+    "URL": "https://github.com/ApyMajul",
+    "languages": ["fr", "en", "ko"],
+    "default_language": "fr",
+    "contacts": {
+        "mail": "blbabla@gmail.com",
+        "instagram": "username",
+        "telephone": "6666",
+        "adresse": "1 rue qqpart",
+        "youtube": "llll",
+        "spotify": "lll"
+    },
+    "hebergeur": "Netlify – 610 22nd Street, Suite 315 CA 94107 San Francisco +1 844-899-7312",
+    "editeur": "Le site XXXXX est édité par XXXX.",
+    "responsable": "Responsable légal"
+}

@@ -1,0 +1,143 @@
+{
+    "header": {
+        "title1": "TWBB"
+    },
+    "menu": {
+        "category1": "services",
+        "category2": "projets",
+        "category3": "about",
+        "contact": "contact"
+    },
+    "footer": {
+        "propos": "Nous sommes une agence qui fait des conseils et réalisations de projets webs",
+        "title1": "A propos",
+        "title2": "Où nous trouver"
+    },
+    "elements": {
+        "buttons": {
+            "youtube": "Listen on Youtube",
+            "spotify": "Listen on Spotify"
+        },
+        "contact": "contact@contact.fr",
+        "mail": {
+            "message": "Laissez nous votre mail pour être tenu informé",
+            "button": "Submit"
+        },
+        "legal": {
+            "own": "© QQCHOSE 2021",
+            "ml": "Mentions Légales",
+            "pol": "Politique de Confidentialité"
+        },
+        "menuList": {
+            "lien1": "Link 1",
+            "lien2": "Link 2",
+            "lien3": "Link 3"
+        }
+    },
+    "legal": {
+        "return": "Return to the homepage",
+        "title": "Statutory Notices",
+        "intro": "In accordance with the provisions of Law No. 2004-575 of June 21, 2004 on confidence in the digital economy, users of the site are informed of the identity of the various stakeholders in the context of its implementation and monitoring.",
+        "hebergeur": "Host",
+        "edition": "Site edition",
+        "resp": "Responsible for publication",
+        "contact": "Contact-us"
+    },
+    "screentitle": {
+        "title1": "Bring your",
+        "title2": "ideas to the",
+        "title3": "digital world",
+        "cta": "Let's talk about your project"
+    },
+    "services": {
+        "title": "Our skillsets",
+        "tagline": "For smart, user-centric digital, designed to have impact.",
+        "service1": {
+            "title": "Consulting",
+            "description": "Support at each stage: Business Development, Digital Strategy, Strategic Planning ..."
+        },
+        "service2": {
+            "title": "Web Development",
+            "description": "Custom solution: full stack, python, reactJS, CMS ..."
+        },
+        "service3": {
+            "title": "Design & UX",
+            "description": "Up to your idea: product thinking, user research, design, accessibility ..."
+        },
+        "service4": {
+            "title": "Growth hacking",
+            "description": "Everyone should know: traffic acquisition, growth hacking, seo ..."
+        }
+    },
+    "projets": {
+        "title": "projects",
+        "tagline": "All our projects are carried out with love and passion by our digital pirates",
+        "link": "Explore",
+        "projet1": {
+            "title": "Healthcare",
+            "text": "We've designed spaces ranging from 1,000SF to 100,000SF"
+        },
+        "projet2": {
+            "title": "Restaurants / Bars",
+            "text": "From small mom/papa style restaurants in the city, fast-food chains, high-end National chains."
+        },
+        "projet3": {
+            "title": "Residential / Condominiums",
+            "text": "From luxury residential Condos to economical rental apartments."
+        }
+    },
+    "weAllMakeArt": {
+        "1": "we",
+        "2": "all",
+        "3": "make",
+        "4": "art",
+        "5": "allmecen.com"
+    },
+    "contact": {
+        "title": "Let's talk",
+        "social-media": "Follow-us",
+        "music": "Listen-us"
+    },
+    "gallery": {
+        "alanvers1": "First Exhibition All Mecen in 2016",
+        "alanvers2": "Alanvers exhibition in 2016",
+        "alanvers3": "Exposure opening",
+        "leiga": "Poster Exposure Bubbles in Paris",
+        "alanvers": "Alanvers Exposure Poster",
+        "horsdelapeau": "Poster Exposure out of the skin",
+        "horsdelapeau2": "Television work exhibition ordinary madness",
+        "FoliesOrdinaires": "Poster Exposure ordinary Folies",
+        "FoliesOrdinaires2": "Television work exhibition ordinary madness",
+        "bodak": "Video of the launch of Bodak EP",
+        "studio1": "Studio for rent in our offices",
+        "studio2": "Studio and Webradio Equipment",
+        "instincts": "Poster Exposure Instincts"
+    },
+    "about": {
+        "title": "We partner with our clients to help them solve their technical and business challenges",
+        "who": {
+            "title":"Who are we ?",
+            "summary": "We are a collective of digital professionals who join forces within an agency.",
+            "title2": "Adapt",
+            "speech": "The strength of the collective is its decentralized organization which allows it to combine the flexibility to adapt to each client while retaining the expertise of large agencies.",
+            "list1": "SEO consultant",
+            "list2": "Web developers",
+            "list3": "Network administrators",
+            "list4": "Studies manager",
+            "list5": "UX expert",
+            "list6": "Designers"
+        },
+        "how": {
+            "title":"How we work ?",
+            "summary": "TWBB can support you throughout your digital journey. We partner with leaders in marketing, product and boards to help you better understand your customers, then create the right products and experiences to serve them. We work with you to define your product vision, design a strategy and improve your business results.",
+            "title2": "Improve user experience",
+            "speech": "We objectively assess the quality of your interactions with users. We help you learn from your competition. We design and implement improvements to drive adoption and better serve your customers. The main services include:",
+            "list1": "User experience audit",
+            "list2": "Market and user research",
+            "list3": "Design, Concept and Prototyping",
+            "list4": "Ux and ui analysis",
+            "list5": "Go to market strategy",
+            "list6": "Roadmap & Backlog Management"
+        }
+    }
+}

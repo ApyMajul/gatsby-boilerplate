@@ -1,0 +1,144 @@
+{
+    "header": {
+        "title1": "TWBB"
+    },
+    "menu": {
+        "category1": "services",
+        "category2": "projets",
+        "category3": "about",
+        "contact": "contact"
+    },
+    "footer": {
+        "propos": "Nous sommes une agence qui fait des conseils et réalisations de projets webs",
+        "title1": "A propos",
+        "title2": "Où nous trouver"
+    },
+    "elements": {
+        "buttons": {
+            "youtube": "Listen on Youtube",
+            "spotify": "Listen on Spotify"
+        },
+        "contact": "contact@contact.fr",
+        "mail": {
+            "message": "Laissez nous votre mail pour être tenu informé",
+            "button": "Submit"
+        },
+        "legal": {
+            "own": "© QQCHOSE 2021",
+            "ml": "Mentions Légales",
+            "pol": "Politique de Confidentialité"
+        },
+        "menuList": {
+            "lien1": "About",
+            "lien2": "Blog",
+            "lien3": "Legal"
+        }
+    },
+    "legal": {
+        "return": "Revenir à la page d'accueil",
+        "title": "Mentions Légales",
+        "intro": "Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l’économie numérique, il est précisé aux utilisateurs du site l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi.",
+        "hebergeur": "Hébergeur",
+        "edition": "Edition du site",
+        "resp": "Respnsable Publication",
+        "contact": "Nous contacter"
+    },
+    "screentitle": {
+        "title1": "Faites passer vos",
+        "title2": "idées dans le",
+        "title3": " monde digital",
+        "cta": "Parlons de votre projet"
+    },
+    "services": {
+        "title": "expertises",
+        "tagline": "Pour un digital intelligent, user centric, conçu pour avoir de l’impact.",
+        "service1": {
+            "title": "Conseil",
+            "description": "Accompagnemet à chaque étape: Business Development, Stratégie Digitale, Planning stratégique..."
+        },
+        "service2": {
+            "title": "Développement Web",
+            "description": "Solution sur mesure: full stack, python, reactJS, CMS..."
+        },
+        "service3": {
+            "title": "Expérience Utilisateur",
+            "description": "A la hauteur de votre idée: product thinking, user research, design, accessiblité..."
+        },
+        "service4": {
+            "title": "Croissance",
+            "description": "Tout le monde doit savoir: acquisition de trafic, growth hacking, seo..."
+        }
+    },
+    "projets": {
+        "title": "projets",
+        "tagline": "Tous nos projets sont réalisés avec amour et passion par nos digital pirates",
+        "link": "Explorer",
+        "projet1": {
+            "title": "Santé",
+            "text": "Nous avons conçu des espaces allant de 1,000SF à 100,000SF."
+        },
+        "projet2": {
+            "title": "Restaurants / Bars",
+            "text": "Des petits restaurants de style maman / papa de la ville, des chaînes de restauration rapide, des chaînes nationales haut de gamme."
+        },
+        "projet3": {
+            "title": "Résidentiel / Condominiums",
+            "text": "Des condos résidentiels de luxe aux appartements de location économiques."
+        }
+    },
+    "weAllMakeArt": {
+        "1": "we",
+        "2": "all",
+        "3": "make",
+        "4": "art",
+        "5": "allmecen.com"
+    },
+    "contact": {
+        "title": "Parlons de votre projet",
+        "social-media": "Suivez-nous",
+        "music": "Ecoutez-nous"
+    },
+    "gallery": {
+        "alanvers1": "Première exposition All Mecen en 2016",
+        "alanvers2": "Exposition alanvers en 2016",
+        "alanvers3": "Vernissage d'exposition",
+        "leiga": "Affiche exposition Bubbles in Paris",
+        "alanvers": "Affiche exposition alanvers",
+        "horsdelapeau": "Affiche exposition Hors de la Peau",
+        "horsdelapeau2": "Oeuvre télévisuelle exposition Folies Ordinaires",
+        "FoliesOrdinaires": "Affiche exposition Folies Ordinaires",
+        "FoliesOrdinaires2": "Oeuvre télévisuelle exposition Folies Ordinaires",
+        "bodak": "Vidéo du lancement d'EP de Bodak",
+        "studio1": "Studio à louer dans nos bureaux",
+        "studio2": "Equipement studio et webradio",
+        "instincts": "Affiche exposition instincts"
+    },
+    "about": {
+        "title": "Nous nous associons à nos clients pour les aider à résoudre leurs défis techniques et business",
+        "who": {
+            "title":"Qui sommes nous ?",
+            "summary": "Nous sommes un collectif de professionnels du digital qui s'associent au sein d'une agence.",
+            "title2": "S'adapter",
+            "speech": "La force du collectif c'est son organisation décentralisée qui permet d'associer la flexibilité de s'adapter à chaque client tout en conservant l'expertise des grandes agences.",
+            "list1": "Consultant en SEO",
+            "list2": "Développeurs Web",
+            "list3": "Administrateurs réseaux",
+            "list4": "Chargé d'études",
+            "list5": "Expert UX",
+            "list6": "Designers",
+            "tranistion": "est un site participatif de découverte de l'art et de son financement."
+        },
+        "how": {
+            "title":"Comment faisons-nous ?",
+            "summary": "TWBB peut vous accompagner tout au long de votre parcours numérique. Nous travaillons en partenariat avec des leaders du marketing, des produits et des conseils d'administration pour vous aider à mieux comprendre vos clients, puis à créer les bons produits et expériences pour les servir. Nous travaillons avec vous pour définir votre vision produit, concevoir une stratégie et améliorer vos résultats commerciaux.",
+            "title2": "Améliorer l'experience utilisateur",
+            "speech": "Nous évaluons objectivement la qualité de vos interactions avec les utilisateurs. Nous vous aidons à apprendre de vos concurrents. Nous concevons et mettons en œuvre des améliorations pour favoriser l'adoption et mieux servir vos clients. Les principaux services comprennent:",
+            "list1": "Audit de l'experience utilisateur",
+            "list2": "Recherche sur le marché et l'utilisateur",
+            "list3": "Design, Concept et Prototyping",
+            "list4": "Analyse d'ux et d'ui",
+            "list5": "Go to market strategy",
+            "list6": "Roadmap & Backlog Management"
+        }
+    }
+}
